@@ -1,0 +1,2 @@
+albumDeFigurinhas
+=================
